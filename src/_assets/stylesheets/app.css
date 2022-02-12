@@ -1,5 +1,3 @@
-@import '../../../node_modules/baguettebox.js/dist/baguetteBox.min.css';
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
