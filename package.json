@@ -5,11 +5,9 @@
 	"scripts": {
 		"clean": "rimraf dist",
 		"dev:postcss": "postcss src/_assets/stylesheets/*.css -o src/static/app.compiled.css --watch --verbose",
-		"dev:scripts": "rollup -c -w",
 		"dev:11ty": "eleventy --serve --watch",
 		"build:postcss": "postcss src/_assets/stylesheets/app.css -o dist/static/app.compiled.css",
 		"build:11ty": "cross-env ELEVENTY_PRODUCTION=true eleventy",
-		"build:scripts": "cross-env NODE_ENV=production rollup -c",
 		"start": "run-p dev:* --print-label",
 		"build": "run-s clean build:* --print-label"
 	},
