@@ -40,7 +40,7 @@ async function imageShortcode(src, alt, max, className = 'block max-w-full h-aut
             <source srcset="${metadata.jpeg[2].url}" type="image/jpeg" media="(min-width: 540px)">
             <source srcset="${metadata.jpeg[1].url}" type="image/jpeg" media="(min-width: 320px)">
             <source srcset="${metadata.jpeg[0].url}" type="image/jpeg">
-            <img src="${base?.url}" alt="${alt}" loading="lazy" decoding="async" class="${className} xl">
+            <img src="${base.url}" alt="${alt}" loading="lazy" decoding="async" class="${className} xl">
         </picture>`
     } else if ((max === 'lg' || max === 'xl') && metadata.webp[3] !== undefined && metadata.webp[2] !== undefined) {
         return `
@@ -103,7 +103,6 @@ module.exports = function (eleventyConfig) {
 
     eleventyConfig.addFilter("galleryData", galleryData);
 
-    // Add YAML support for data files
     eleventyConfig.addDataExtension("yaml", contents => yaml.load(contents));
 
     eleventyConfig.setUseGitIgnore(false);
