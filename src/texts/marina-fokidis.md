@@ -1,12 +1,11 @@
 ---
-title: “Turbulence”,  3rd Auckland Triennial,  2007 (Catalogue)
+title: Promenade & Oblivion´s Exercises
+subtitle: “Turbulence”,  3rd Auckland Triennial,  2007 (Catalogue)
 author: Marina Fokidis
 layout: text
 tags: text
 order: 9
 ---
-
-Works included in the exhibition: “Promenade”  & “Oblivion´s Exercises”
 
 A woman -the artist- literally loses herself before a mirror. Her reflection is nowhere to be seen. The viewer can see her back as she is dressed in a silk dressing gown with embroidered flowers. This is the only spot on the picture where the gaze can ‘breathe’. I remember all of you,  is the title of this work -shot by Christina Dimitriadis in 1996- that has inspired the latest body of her work. It is comprised of four different photographic sets from which any apparent trace of emotional activity seems at first sight markedly absent.
 

@@ -1,12 +1,11 @@
 ---
-title: “Women only”, Beltsios Collection, Margaris Foundation, Amfilochia, 2008 (Catalogue)
+title: Building Living Leaving (living together)
+subtitle: “Women only”, Beltsios Collection, Margaris Foundation, Amfilochia, 2008 (Catalogue)
 author: Sotirios Bahtsetzis
 layout: text
 tags: text
 order: 4
 ---
-
-Works included in the exhibition: Building Living Leaving (living together)
 
 Christina Dimitriadis uses photography as a medium to express an extremely autobiographical stance based on human relationships in terms of the concept of identity. In the artist’s strictly structured photographs an almost architectural tone prevails, an absolute minimal mise-en-scène where the lack of any arbitrary haphazard occurrence is clear. In this respect Dimitriadis´photos have a compelling character, almost monumental, even when they deal with an utterly.
 

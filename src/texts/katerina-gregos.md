@@ -1,12 +1,11 @@
 ---
-title: “Breakthrough”, Alcala 31, Madrid 2004, (Catalogue)
+title: Obscure Passages
+subtitle: “Breakthrough”, Alcala 31, Madrid 2004, (Catalogue)
 author: Katerina Gregos
 layout: text
 tags: text
 order: 8
 ---
-
-Works included in the exhibition: “Obscure Passages”
 
 Christina Dimitriadis uses the medium of photography to articulate a very personal expression of space, one that is largely autobiographical and based on very close family relationships and references to her own immediate environment. Her quiet, yet highly poised and charged compositions focus mostly on private, domestic areas, examine the ties that bind us to the ones most close to us, and ask the question of how we occupy our most intimate and familiar spaces. For her most recent project entitled “Obscure Passages” the artist has photographed her father, her mother, her grandmother and herself in habitual, familiar places and spaces such as her home, or in a quarry, her father’s place of work, in order to examine how time and our surroundings mark our passage from one state of being to another.
 

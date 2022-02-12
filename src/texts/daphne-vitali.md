@@ -1,12 +1,11 @@
 ---
-title: “In Present Tense”, National Museum of Contemporary Art (EMST), Athens, 2007 (Catalogue)
+title: Promenade
+subtitle: “In Present Tense”, National Museum of Contemporary Art (EMST), Athens, 2007 (Catalogue)
 author: Daphne Vitali
 layout: text
 tags: text
 order: 6
 ---
-
-Works included in the exhibition: “Promenade”
 
 The central themes of Christina Dimitriadis’ work are her personal quest and an existentialist anxiety. The quest is based on human relationships: self-portraits and portraits of members of her family frequently recur in her works, in her scrutiny of the past, the present and the future. The portraits that her photographs depict hint at their mental disposition, the manner in which this develops and is transformed in relation to the environment, time, and memory. Dimitriadis photographs spaces with an inherent history or a recollection, capturing images seeking to trigger the memory and revive the dream.
 

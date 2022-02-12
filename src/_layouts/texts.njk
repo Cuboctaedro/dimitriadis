@@ -1,13 +1,14 @@
 {% extends "./base.njk" %}
 
 {% block content %}
-    <main class="container mx-auto mt-12">
-        <ul class=" w-full relative">
+    <main class="container mx-auto pt-36 pb-24">
+        <ul class=" w-full">
             {% for item in collections.textsSorted %}
-                <li class="mb-6 w-full px-3">
-                    <a class="text-black hover:text-gray_500 no-underline " href="{{ item.url }}">
-                        <h2 class="text-base font-bold xl:w-2/3 ">{{ item.data.title }}</h2>
-                        <h3 class="text-base xl:w-2/3" >{{ item.data.author }}</h3>
+                <li class="pb-12 lg:w-2/3 px-6">
+                    <a class="text-black hover:text-gray_500 no-underline" href="{{ item.url }}">
+                        <h3 class="text-base font-bold">{{ item.data.author }}</h3>
+                        <h2 class="text-base italic" >{{ item.data.title }}</h2>
+                        <h4 class="text-base" >{{ item.data.subtitle }}</h4>
                     </a>
                 </li>
             {% endfor %}

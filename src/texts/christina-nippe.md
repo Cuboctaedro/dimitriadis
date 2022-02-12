@@ -1,12 +1,11 @@
 ---
-title: Tempus Ritualis, Center of Contemporary Art, Thessaloniki, CACT & Galerie im Koernerpark, Berlin
+title: Metamorphoses is the only Grace offered
+subtitle: Tempus Ritualis, Center of Contemporary Art, Thessaloniki, CACT & Galerie im Koernerpark, Berlin
 author: Christine Nippe
 layout: text
 tags: text
 order: 2
 ---
-
-Works included in the exhibition: “Metamorphoses is the only Grace offered”
 
 Christina Dimitriadis studies her living environment through her lens, arranged in concentric circles. Only at the first glance does there appear to be a clash in Dimitriadis’ works between her own identity, time and space. At the second glance, however, her work unfolds an entire field of conflict between the person and society, between the individual and the community. 
 

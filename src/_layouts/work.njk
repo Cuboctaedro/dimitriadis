@@ -1,81 +1,56 @@
 {% extends "./base.njk" %}
 
 {% block content %}
-<main class="container mx-auto mt-12" >
-    <article class="pb-12">
+<main class="container mx-auto pt-36 pb-24" >
+    <article>
 
-        <div class="flex flex-col md:flex-row md:mb-6">
-            <header class="mb-6 md:mb-0 mb:w-1/2 flex-1 px-3">
-                <h1 class="text-black font-bold text-base sm:text-lg md:text-xl">{{ title }}</h1>
-            </header>
+        <header class="pb-6">
+            <h1 class="text-black font-bold text-base sm:text-lg">{{ title }}</h1>
+        </header>
 
-            <ul role="tablist" class="flex-1 flex flex-col sm:flex-row sm:justify-end mb-6 md:mb-0 mb:w-1/2 px-3 tablist" id="tabs">
-                
-                <li class="pb-1 sm:pb-0 sm:pr-4">
-                    <a class="uppercase" role="tab" href="#images-panel" data-target="images-panel" id="images-link" aria-selected="true">
-                        Images
-                    </a>
-                </li>
-                
-                {% if installations and installations.length > 0 %}
-                <li class="pb-1 sm:pb-0 sm:pr-4">
-                    <a class="uppercase" role="tab" href="#views-panel" data-target="views-panel" id="views-link">
-                        Installation Views
-                    </a>
-                </li>
-                {% endif %}
-                
-                <li class="pb-1 sm:pb-0">
-                    <a class="uppercase" role="tab" href="#info-panel" data-target="info-panel" id="views-info">
-                        Info
-                    </a>
-                </li>
-            </ul>
+        <div class="pb-24">
+            <p class="mb-0">
+                <span class="font-bold pr-1">Place, Date:</span>
+                <span class="pr-1">{{ place }},</span>{{ year }}
+            </p>
+            <p class="mb-0">
+                <span class="font-bold pr-1">Medium:</span>
+                {{ medium }}
+            </p>
+            <p class="mb-0">
+                <span class="font-bold pr-1">Size:</span>
+                {{ size }}
+            </p>
+            {% if views %}
+            <p class="mb-0 pt-4">
+                <span class="font-bold pr-1">Installaton view:</span>
+                {{ views }}
+            </p>
+
+            {% endif %}
         </div>
 
-        <section role="tabpanel" id="images-panel" aria-labelledby="images-link" class="px-3">
-            
-            <div class="flex flex-row pb-3">
-                <button type="button" class="uppercase text-sm mr-4 pr-4 border-r" id="images-prev">Previous</button>
-                <button type="button" class="uppercase text-sm mr-8" id="images-next">Next</button>
-                <div><span id="images-index">1</span> of {{ gallery | length }}</div>
-            </div>
+        <div class="sm:flex sm:flex-row sm:justify-center sm:flex-wrap gallery">
 
-            <div class="w-full images-slider">
-                {% for pic in gallery %}
-                    <div class="max-h-full w-auto images-frame" id="images-frame-{{ loop.index }}" {% if loop.index !== 1 %} hidden {% endif %}>
+            {% for pic in gallery %}
+                <a href="{pic.url}" data-caption="" class="block w-64 h-auto mx-auto mb-6 sm:w-auto sm:h-64 sm:mx-3 relative" id="images-frame-{{ loop.index }}">
                         
-                        {% image './src/' + pic.url, pic.title, 'lg', 'block'  %}
+                    {% image './src/' + pic.url, pic.title, 'lg', 'block w-full sm:h-64 sm:w-auto max-w-none'  %}
 
-                    </div>
+                </a>
+            {% endfor %}
+
+            {% if installations and installations.length > 0 %}
+                {% for pic in installations %}
+                <a href="{pic.url}" data-caption="" class="block w-64 h-auto mx-auto mb-6 sm:w-auto sm:h-64 sm:mx-3 relative" id="images-frame-{{ loop.index }}">
+                        
+                    {% image './src/' + pic.url, pic.title, 'lg', 'block w-full sm:h-64 sm:w-auto max-w-none'  %}
+
+                </a>
                 {% endfor %}
-            </div>
+            {% endif %}
 
-        </section>
-
-        {% if installations and installations.length > 0 %}
-            <section role="tabpanel" id="views-panel" aria-labelledby="views-link"  class="px-3" hidden>  
-
-                <div class="w-full">
-                    {% for pic in installations %}
-                        <div class="w-full pb-12" id="views-frame-{{ loop.index }}">
-                            <figure>
-                                {% image './src/' + pic.url, '', 'lg' %}
-                                <figcaption class="pt-1 text-sm xl:max-w-1/2">{{ pic.title }}</figcaption>
-                            </figure>
-                        </div>
-                    {% endfor %}
-                </div>
-
-            </section>
-        {% endif %}
-
-        <section role="tabpanel" id="info-panel" aria-labelledby="info-link"  class="px-3" hidden>  
-            <p class="mb-0">{{ year }}</p>
-            <p class="mb-0">{{ place }}</p>
-            <p class="mb-0">Medium: {{ medium }}</p>
-            <p class="mb-6">Size: {{ size }}</p>
-        </section>
+        </div>
 
     </article>
 </main>

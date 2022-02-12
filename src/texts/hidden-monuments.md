@@ -1,5 +1,6 @@
 ---
 title: A Conversation Between Christina Dimitriadis and Kimberly Bradley
+subtitle: A Conversation Between Christina Dimitriadis and Kimberly Bradley
 author: Kimberly Bradley
 layout: text
 tags: text
