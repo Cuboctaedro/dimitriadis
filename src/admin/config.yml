@@ -54,7 +54,7 @@ collections:
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
-          - {label: "Cover", name: "cover", widget: "image", media_library:{config:{multiple: false}}, required: false}
+          - {label: "Cover", name: "cover", widget: "image", allow_multiple: false, required: false}
           - {label: "Description", name: "description", widget: "text", required: false}
       - label: "Bio Page"
         name: "bio"
