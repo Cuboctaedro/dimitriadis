@@ -7,7 +7,7 @@ size: 90 x 60 cm
 layout: work
 tags: work
 order: 200
-cover: images/island-hoping-01.jpg
+cover: images/island-hoping-cover.jpg
 gallery:
   - url: images/island-hoping-01.jpg
     title:

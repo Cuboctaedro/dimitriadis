@@ -7,7 +7,7 @@ size: 60 x 40 cm
 layout: work
 tags: work
 order: 190
-cover: images/end-and-01.jpg
+cover: images/end-and-cover.jpg
 gallery:
   - url: images/end-and-01.jpg
     title: 

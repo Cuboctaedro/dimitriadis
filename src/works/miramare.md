@@ -7,7 +7,7 @@ size: 110 x 88 cm
 layout: work
 tags: work
 order: 150
-cover: images/miramare-01.jpg
+cover: images/miramare-cover.jpg
 gallery:
   - url: images/miramare-01.jpg
     title:

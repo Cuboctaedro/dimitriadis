@@ -8,7 +8,7 @@
                 <li class="w-80 px-2 pb-6 mx-auto sm:w-full sm:px-0 sm:pb-0">
                     <article class="w-full">
                         <div class="w-full h-0 relative" style="padding-top:100%;">
-                            <a class="block absolute inset-0 z-10 hover:shadow-lg opacity-100 hover:opacity-10" href="{{ item.url }}">
+                            <a class="block absolute inset-0 z-10 hover:shadow-lg opacity-100 hover:opacity-10 transition-opacity" href="{{ item.url }}">
                                 {% image item.data.cover, item.data.title , 'md', 'block w-full h-full object-cover '%}
                             </a>
                             <div class="absolute inset-0 z-0 flex flex-col items-center justify-center text-center p-6">
