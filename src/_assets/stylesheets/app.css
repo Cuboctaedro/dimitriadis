@@ -1,77 +1,8 @@
-@import "tailwindcss/base";
-
-@import "tailwindcss/components";
-
-@import "tailwindcss/utilities";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 body {
 	min-height: 101vh;
 }
 
-.unseen {
-	position: absolute;
-	left: -10000px;
-	top: auto;
-	width: 1px;
-	height: 1px;
-	overflow: hidden;
-}
-
-.project {
-	width: 100%;
-	&__pic {
-		opacity: 0;
-		transition: opacity 300ms ease-in-out;
-	}
-	&:hover .project__pic {
-		opacity: 1;
-	}
-}
-
-.generated {
-	p {
-		margin-bottom: 1.5rem;
-	}
-}
-@screen md {
-	.random {
-		&.num-3 {
-			transform: translateX(50%);
-		}
-		&.num-4 {
-			transform: translateX(100%);
-		}
-		&.num-5 {
-			transform: translateX(100%);
-		}
-	}
-}
-
-@screen xl {
-	.random {
-		&.num-2 {
-			transform: translateX(50%);
-		}
-		&.num-3 {
-			transform: translateX(100%);
-		}
-		&.num-4 {
-			transform: translateX(150%);
-		}
-		&.num-5 {
-			transform: translateX(200%);
-		}
-	}
-}
-
-.tablist a[aria-selected="true"] {
-	@apply font-bold;
-}
-
-.images-slider {
-	img {
-		max-height: calc(100vh - 16rem);
-		max-width: auto;
-		display: block;
-	}
-}

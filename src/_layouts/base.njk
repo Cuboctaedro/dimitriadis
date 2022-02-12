@@ -4,18 +4,9 @@
         {% include "head.njk" %}
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@100;400;700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
 
-        {% if site.env %}
-        <!-- capture the CSS content as a Liquid variable -->
-        {% set css %}{% include "app.compiled.css" %}{% endset %}
-        <style> 
-            {{ css | safe }}
-        </style>
-        {% else %}
         <link rel="stylesheet" href="/static/app.compiled.css">
-        {% endif %}
-        {% block header %}{% endblock %}
     </head>
     <body class="font-base font-sans">
         {% include "header.njk" %}
