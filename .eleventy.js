@@ -15,26 +15,34 @@ async function imageShortcode(src, alt, max, className = 'block max-w-full h-aut
     if(alt === undefined) {
         alt = '';
     }
+
+    const imageSource = './src/' + src;
   
-    let metadata = await Image(src, {
-        widths: [320, 500, 760, 1000, 1200],
+    let metadata = await Image(imageSource, {
+        widths: [320, 500, 760, 1000, 1600],
         formats: ['webp', 'jpeg'],
         outputDir: './dist/img/'
     });
   
+
     let base = metadata.jpeg[metadata.jpeg.length - 1];
-    if (max === 'md' && metadata.webp[2] !== undefined) {
+
+    if (max === 'xl'  && metadata.webp[4] !== undefined && metadata.webp[3] !== undefined && metadata.webp[2] !== undefined) {
         return `
         <picture>
+            <source srcset="${metadata.webp[4].url}" type="image/webp" media="(min-width: 1100px)">
+            <source srcset="${metadata.webp[3].url}" type="image/webp" media="(min-width: 768px)">
             <source srcset="${metadata.webp[2].url}" type="image/webp" media="(min-width: 540px)">
             <source srcset="${metadata.webp[1].url}" type="image/webp" media="(min-width: 320px)">
             <source srcset="${metadata.webp[0].url}" type="image/webp">
+            <source srcset="${metadata.jpeg[4].url}" type="image/jpeg" media="(min-width: 1100px)">
+            <source srcset="${metadata.jpeg[3].url}" type="image/jpeg" media="(min-width: 768px)">
             <source srcset="${metadata.jpeg[2].url}" type="image/jpeg" media="(min-width: 540px)">
             <source srcset="${metadata.jpeg[1].url}" type="image/jpeg" media="(min-width: 320px)">
             <source srcset="${metadata.jpeg[0].url}" type="image/jpeg">
-            <img src="${metadata.jpeg[0].url}" alt="${alt}" loading="lazy" decoding="async" class="${className}">
+            <img src="${base?.url}" alt="${alt}" loading="lazy" decoding="async" class="${className} xl">
         </picture>`
-    } else if (max === 'lg'  && metadata.webp[2] !== undefined  && metadata.webp[3] !== undefined) {
+    } else if ((max === 'lg' || max === 'xl') && metadata.webp[3] !== undefined && metadata.webp[2] !== undefined) {
         return `
         <picture>
             <source srcset="${metadata.webp[3].url}" type="image/webp" media="(min-width: 768px)">
@@ -45,27 +53,32 @@ async function imageShortcode(src, alt, max, className = 'block max-w-full h-aut
             <source srcset="${metadata.jpeg[2].url}" type="image/jpeg" media="(min-width: 540px)">
             <source srcset="${metadata.jpeg[1].url}" type="image/jpeg" media="(min-width: 320px)">
             <source srcset="${metadata.jpeg[0].url}" type="image/jpeg">
-            <img src="${metadata.jpeg[0].url}" alt="${alt}" loading="lazy" decoding="async" class="${className}">
+            <img src="${base.url}" alt="${alt}" loading="lazy" decoding="async" class="${className} lg">
+        </picture>`
+    } else if ((max === 'md' || max === 'lg' || max === 'xl') && metadata.webp[2] !== undefined) {
+        return `
+        <picture>
+            <source srcset="${metadata.webp[2].url}" type="image/webp" media="(min-width: 540px)">
+            <source srcset="${metadata.webp[1].url}" type="image/webp" media="(min-width: 320px)">
+            <source srcset="${metadata.webp[0].url}" type="image/webp">
+            <source srcset="${metadata.jpeg[2].url}" type="image/jpeg" media="(min-width: 540px)">
+            <source srcset="${metadata.jpeg[1].url}" type="image/jpeg" media="(min-width: 320px)">
+            <source srcset="${metadata.jpeg[0].url}" type="image/jpeg">
+            <img src="${base.url}" alt="${alt}" loading="lazy" decoding="async" class="${className} md">
         </picture>`
     } else {
         return `
-        <picture>
-            <source srcset="${metadata.webp[0].url}" type="image/webp">
-            <source srcset="${metadata.jpeg[0].url}" type="image/jpeg">
-            <img src="${metadata.jpeg[0].url}" alt="${alt}" loading="lazy" decoding="async" class="${className}">
-        </picture>`
-    };
+        <img src="/${src}" alt="${alt}" loading="lazy" decoding="async" class="${className} base">`
+    }
 }
 
+
 module.exports = function (eleventyConfig) {
-    // Folders to copy to build dir (See. 1.1)
     eleventyConfig.addPassthroughCopy("src/static");
     eleventyConfig.addPassthroughCopy("src/admin");
     eleventyConfig.addPassthroughCopy("src/images");
-    // eleventyConfig.addPassthroughCopy("src/photoswipe");
 
     if (process.env.ELEVENTY_ENV === 'production') {
-        // Minify HTML (including inlined CSS and JS) 
         eleventyConfig.addTransform("compressHTML", function (content, outputPath) {
             if (outputPath.endsWith(".html")) {
                 let minified = htmlmin.minify(content, {

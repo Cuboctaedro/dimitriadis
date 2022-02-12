@@ -33,18 +33,18 @@
         <div class="sm:flex sm:flex-row sm:justify-center sm:flex-wrap gallery">
 
             {% for pic in gallery %}
-                <a href="{pic.url}" data-caption="" class="block w-64 h-auto mx-auto mb-6 sm:w-auto sm:h-64 sm:mx-3 relative" id="images-frame-{{ loop.index }}">
+                <a href="/{{ pic.url }}" data-caption="" class="block w-64 h-auto mx-auto mb-6 sm:w-auto sm:h-64 sm:mx-3 relative" id="images-frame-{{ loop.index }}">
                         
-                    {% image './src/' + pic.url, pic.title, 'lg', 'block w-full sm:h-64 sm:w-auto max-w-none'  %}
+                    {% image pic.url, pic.title, 'md', 'block w-full sm:h-64 sm:w-auto max-w-none'  %}
 
                 </a>
             {% endfor %}
 
             {% if installations and installations.length > 0 %}
                 {% for pic in installations %}
-                <a href="{pic.url}" data-caption="" class="block w-64 h-auto mx-auto mb-6 sm:w-auto sm:h-64 sm:mx-3 relative" id="images-frame-{{ loop.index }}">
+                <a href="/{{ pic.url }}" data-caption="" class="block w-64 h-auto mx-auto mb-6 sm:w-auto sm:h-64 sm:mx-3 relative" id="images-frame-{{ loop.index }}">
                         
-                    {% image './src/' + pic.url, pic.title, 'lg', 'block w-full sm:h-64 sm:w-auto max-w-none'  %}
+                    {% image pic.url, pic.title, 'md', 'block w-full sm:h-64 sm:w-auto max-w-none'  %}
 
                 </a>
                 {% endfor %}
