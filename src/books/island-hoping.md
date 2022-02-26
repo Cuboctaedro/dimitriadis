@@ -11,4 +11,4 @@ description: 96 pages, 19x25 cm, four-color process, clothbound, hardback
 layout: book
 tags: book
 order: 200
-cover: images/island-hoping-book.jpg
+cover: images/island-hoping-book.png

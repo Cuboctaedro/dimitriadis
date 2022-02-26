@@ -6,8 +6,8 @@ medium: Lambda Prints
 size: 120 x 120 cm
 layout: work
 tags: work
-order: 046
-cover: images/living-together-01.jpg
+order: 155
+cover: images/living-together-08.jpg
 gallery:
   - url: images/living-together-01.jpg
     title: ''

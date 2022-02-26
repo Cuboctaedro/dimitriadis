@@ -6,8 +6,8 @@ medium: Lambda Prints
 size: 100 x 100 cm
 layout: work
 tags: work
-order: 090
-cover: images/promenade-01.jpg
+order: 185
+cover: images/promenade-02.jpg
 gallery:
   - url: images/promenade-01.jpg
     title:

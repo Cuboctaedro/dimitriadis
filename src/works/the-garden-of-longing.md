@@ -6,7 +6,7 @@ medium: Inkjet Prints
 size: 150 x 150 cm
 layout: work
 tags: work
-order: 130
+order: 120
 cover: images/the-garden-of-longing-01.jpg
 gallery:
   - url: images/the-garden-of-longing-01.jpg

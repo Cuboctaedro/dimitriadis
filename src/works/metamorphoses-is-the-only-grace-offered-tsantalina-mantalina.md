@@ -6,7 +6,7 @@ medium: Inkjet Prints
 size: Various
 layout: work
 tags: work
-order: 180
+order: 170
 cover: images/tsantalina-mantalina-01.jpg
 gallery:
   - url: images/tsantalina-mantalina-01.jpg
@@ -22,6 +22,7 @@ gallery:
   - url: images/tsantalina-mantalina-06.jpg
     title:
 installations:
-  - url: images/metamorphosis-technologies-of-the-self.jpg
-    title: '"Technologies of the Self", a retrospective of the artist’s most important photographic series from 1995–2015, curated by Barbara Piwowarska, Galeria Studio, Warsaw, 2015'
+  - url: images/metamorphosis-tempus-ritualis.jpg
+    title: '"Tempus Ritualis", Curated by Christine Nippe, Evanthia Tsantila, Christina Dimitriadis CACT, Contemporary Art Center of Thessaloniki, Thessaloniki, 2014'
 ---
+*Tempus Ritualis*, Curated by Christine Nippe, Evanthia Tsantila, Christina Dimitriadis CACT, Contemporary Art Center of Thessaloniki, Thessaloniki, 2014

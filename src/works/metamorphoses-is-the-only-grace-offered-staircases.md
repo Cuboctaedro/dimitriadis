@@ -6,7 +6,7 @@ medium: Inkjet Prints
 size: Various
 layout: work
 tags: work
-order: 170
+order: 140
 cover: images/staircases-01.jpg
 gallery:
   - url: images/staircases-01.jpg
@@ -23,3 +23,4 @@ installations:
   - url: images/metamorphosis-tempus-ritualis.jpg
     title: '"Tempus Ritualis", Curated by Christine Nippe, Evanthia Tsantila, Christina Dimitriadis CACT, Contemporary Art Center of Thessaloniki, Thessaloniki, 2014'
 ---
+*Tempus Ritualis*, Curated by Christine Nippe, Evanthia Tsantila, Christina Dimitriadis CACT, Contemporary Art Center of Thessaloniki, Thessaloniki, 2014

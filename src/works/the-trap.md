@@ -6,8 +6,8 @@ medium: Color photographs
 size: 70 x 70 cm
 layout: work
 tags: work
-order: 100
-cover: images/the-trap-01.jpg
+order: 130
+cover: images/the-trap-02.jpg
 gallery:
   - url: images/the-trap-01.jpg
     title: 
@@ -21,3 +21,4 @@ installations:
   - title: '"Symbioses", Curators without Borders, Berlin, 2008'
     url: images/the-trap-gallery.jpg
 ---
+*Symbioses*, Curators without Borders, Berlin, 2008

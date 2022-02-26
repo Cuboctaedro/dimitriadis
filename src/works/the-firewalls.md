@@ -6,7 +6,7 @@ medium: Inkjet Prints
 size: 120 x 120 cm
 layout: work
 tags: work
-order: 120
+order: 165
 cover: images/firewalls-01.jpg
 gallery:
   - url: images/firewalls-01.jpg

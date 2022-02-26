@@ -7,4 +7,4 @@ publisher: EDITION BAUHAUS a series of the Bauhaus Dessau Foundation
 layout: book
 tags: book
 order: 100
-cover: images/city-and-migration-book.jpg
+cover: images/city-and-migration-cover.png

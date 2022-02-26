@@ -4,6 +4,7 @@ place: Greece
 year: '2015 - 2018'
 medium: Inkjet Prints
 size: 90 x 60 cm
+views: '"Island Hoping", Athens Municipality Arts Centre, Athens, 2018'
 layout: work
 tags: work
 order: 200
@@ -51,3 +52,5 @@ installations:
   - url: images/island-hoping-ex-05.jpg
     title: '"Island Hoping", Athens Municipality Arts Centre, Athens, 2018'
 ---
+
+*Island Hoping*, Athens Municipality Arts Centre, Athens, 2018

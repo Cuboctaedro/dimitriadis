@@ -1,36 +1,27 @@
-{% if layout == 'home' %}
-    {% set color = 'text-black hover:text-gray-700' %}
-    {% set background = 'bg-white' %}
-{% else %}
-    {% set background = 'bg-white' %}
-    {% set color = 'text-black hover:text-gray-700' %}
-    {# {% set color = 'text-black hover:text-gray-800' %} #}
-{% endif %}
-
 <nav
  class="w-full py-2 relative z-10 uppercase text-base md:text-lg lg:text-xl xl:text-2xl xxl:text-3xl font-normal md:font-thin">
     <div class="flex flex-row justify-between mx-auto container">
         {% if layout == 'home' %}
-        <h1 class="{{color}} w-2/3 sm:w-1/2 px-6 mb-6 sm:mb-0">Christina Dimitriadis</h1>
+        <h1 class="text-black w-2/3 sm:w-1/2 px-6 mb-6 sm:mb-0 sm:text-lg lg:text-xl font-bold">Christina Dimitriadis</h1>
     {% else %}
-        <a class="{{color}} w-2/3 sm:w-1/2 px-6 no-underline  mb-6 sm:mb-0" href="/">Christina Dimitriadis</a>
+        <a class="text-black hover:text-gray-700 w-2/3 sm:w-1/2 px-6 no-underline  mb-6 sm:mb-0 sm:text-lg lg:text-xl font-bold" href="/">Christina Dimitriadis</a>
     {% endif %}
-        <ul class="flex flex-col md:flex-row justify-end w-1/3 sm:w-1/2 px-6 text-right font-extralight" id="nav-menu" aria-hidden="true">
+        <ul class="flex flex-col md:flex-row justify-end w-1/3 sm:w-1/2 px-6 text-right font-extralight sm:text-lg lg:text-xl" id="nav-menu" aria-hidden="true">
 
             <li class="md:pr-6">
-                <a href="/works" class="{{color}} no-underline {% if title == 'Works'%} font-bold {% endif %} {% if layout == 'work'%} font-bold {% endif %}">Works</a>
+                <a href="/works" class="text-black hover:text-gray-700 no-underline {% if title == 'Works'%} font-bold {% endif %} {% if layout == 'work'%} font-bold {% endif %}">Works</a>
             </li>
             <li class="md:pr-6">
-                <a href="/books" class="{{color}} no-underline {% if title == 'Books'%} font-bold {% endif %} {% if layout == 'book'%} font-bold {% endif %}">Books</a>
+                <a href="/books" class="text-black hover:text-gray-700 no-underline {% if title == 'Books'%} font-bold {% endif %} {% if layout == 'book'%} font-bold {% endif %}">Books</a>
             </li>
             <li class="md:pr-6">
-                <a href="/texts" class="{{color}} no-underline {% if title == 'Texts'%} font-bold {% endif %} {% if layout == 'text'%} font-bold {% endif %}">Texts</a>
+                <a href="/texts" class="text-black hover:text-gray-700 no-underline {% if title == 'Texts'%} font-bold {% endif %} {% if layout == 'text'%} font-bold {% endif %}">Texts</a>
             </li>
             <li class="md:pr-6">
-                <a href="/bio" class="{{color}} no-underline {% if title == 'Bio'%} font-bold {% endif %}">Bio</a>
+                <a href="/bio" class="text-black hover:text-gray-700 no-underline {% if title == 'Bio'%} font-bold {% endif %}">Bio</a>
             </li>
             <li class="">
-                <a href="/contact" class="{{color}} no-underline {% if title == 'Contact'%} font-bold {% endif %}">Contact</a>
+                <a href="/contact" class="text-black hover:text-gray-700 no-underline {% if title == 'Contact'%} font-bold {% endif %}">Contact</a>
             </li>
         </ul>
     </div>
