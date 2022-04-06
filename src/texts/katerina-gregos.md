@@ -1,14 +1,14 @@
 ---
-title: Obscure Passages
-subtitle: “Breakthrough”, Alcala 31, Madrid 2004, (Catalogue)
+title: Breakthrough
+subtitle: Alcala 31, Madrid 2004, (Catalogue)
 author: Katerina Gregos
 layout: text
 tags: text
-order: 8
+order: 4100
 ---
+
+Works in the exhibition: Obscure Passages
 
 Christina Dimitriadis uses the medium of photography to articulate a very personal expression of space, one that is largely autobiographical and based on very close family relationships and references to her own immediate environment. Her quiet, yet highly poised and charged compositions focus mostly on private, domestic areas, examine the ties that bind us to the ones most close to us, and ask the question of how we occupy our most intimate and familiar spaces. For her most recent project entitled “Obscure Passages” the artist has photographed her father, her mother, her grandmother and herself in habitual, familiar places and spaces such as her home, or in a quarry, her father’s place of work, in order to examine how time and our surroundings mark our passage from one state of being to another.
 
 In the photographs chosen for this exhibition, for example, her father stands in the middle of this imposing and dramatic, jagged landscape, though his expression or disposition are hard to pinpoint. Do we define the space we occupy or vice-versa? How do we stand in relation to what surrounds us? These are questions that Dimitriadis seems to be asking in this striking diptych. At the same time, there is always a sense of poetic silence and an intimate quality which permeates most of the artist’s photographs. Though these are, in a way, images that bare aspects of the artist’s private space, they are not in any way verbose or too forthcoming. There is always an underlying sense of impenetrability, a denseness which does not allow the proposal of a straightforward – or indeed too confessional – personal narrative. Though the subject matter of her photos is elegantly and concisely articulated, it is offered to the viewer at an arm’s length. As a result, there is a denseness and sense of enigma that governs Dimitriadis’ photos as well as a two-way voyeuristic element at play which adds a more complex dimension to all her work. The artist is willing to share the private aspects of her own circumstances, but does not bare all, leaving the viewer to complete the mosaic of the state of affairs she reveals. Hence the visual information provided in her photographs is no more than is necessary to maintain a slight mystery as to the sub-texts that play out beneath the surface of the images. Dimitriadis’ photographs are powerfully evocative precisely because they propose a host of interpretive possibilities that lie outside the picture frame. Communication, isolation, solitude, intimacy, all these feelings are evoked in her quietly gripping images. In addition, the possible playing out of different family relationships she hints at and the feelings of belonging or being out of place in one’s own environment are questions that resonate for each and every one of us. Ultimately, in holding up a mirror to her own immediate environment, Dimitriadis is also holding up a mirror for the viewer.
-
-Katerina Gregos

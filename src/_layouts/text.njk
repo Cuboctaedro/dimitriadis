@@ -3,11 +3,12 @@
 {% block content %}
 <main class="container mx-auto pt-36 pb-24">
     <section class="px-6">
-        <h1 class="font-bold text-base sm:text-lg mb-6">{{ author }}</h1>
-        <h2 class="italic text-base mb-6">{{ title }}</h2>
+        <h1 class="font-bold text-base sm:text-lg mb-6">{{ title }}</h1>
+        <h2 class="italic text-base mb-6">{{ subtitle }}</h2>
         <div class="max-w-2xl text-base generated">
             {{ content | safe }}
         </div>
+        <div class="italic pt-2">{{ author }}</div>
     </section>
 </main>
 {% endblock %}

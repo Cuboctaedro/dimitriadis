@@ -1,16 +1,16 @@
 ---
-title: Building Living Leaving (living together)
-subtitle: “Women only”, Beltsios Collection, Margaris Foundation, Amfilochia, 2008 (Catalogue)
+title: Women only
+subtitle: Beltsios Collection, Margaris Foundation, Amfilochia, 2008 (Catalogue)
 author: Sotirios Bahtsetzis
 layout: text
 tags: text
-order: 4
+order: 4500
 ---
+
+Works included in the exhibi2on: Building Living Leaving (living together)
 
 Christina Dimitriadis uses photography as a medium to express an extremely autobiographical stance based on human relationships in terms of the concept of identity. In the artist’s strictly structured photographs an almost architectural tone prevails, an absolute minimal mise-en-scène where the lack of any arbitrary haphazard occurrence is clear. In this respect Dimitriadis´photos have a compelling character, almost monumental, even when they deal with an utterly.
 
 Nonspectacular theme, such as an insect on a shutter, or the chimneys of the factory. The artist’s work focuses on kind of documentation and in this respect analyzes human relationships. People’s portraits presented in the photos imply mental states, but they mainly produce abstract narrations about the way in which the depicted persons are connected with their surroundings. Such thoroughly directed photographic sites are exposed for us to see them as symbolically laden compositions usually focusing on private, domestic places. In the photographic diptych “Obscure Passages” (2003), photographs serve as imaginary places, where the identity of subjects appears in the state of oscillating between absolute similarity and the sparse facial differences. This is visual palimpsest in which passing time marginally records differences, exactly in the imperceptible changes of what we see. There is an uncanny feeling imposed by the diptych, caused by a face that appears to be reflecting its double in the first photograph of the diptych, the artist faces her mother, while in the other, the artist’s mother faces her own mother – this causes us to face the uncertainty of human existence itself, the doubt involved in any kind of interpersonal relationship over the course of its development and its ultimate disintegration with the passage of time. In fact, the hint of human presence – the artist herself, who is never there – as well as the traces of one interpersonal relations, are always depicted not only in images that portray persons, but also in those that show places. In this respect, Dimitriadis´work is a sort of elegy to memory that creates private but universally symbolic places, well analyzed in Marcel Proust´s work.
 
 Dimitriadis´extremely private settings show people who are directly connected with her personal memories. However this information remains hermetically closed for the viewer. Looking at the“Living together – Bedroom” (1999), one wonder, which bed, where the young artist is, and what is the situation she’s experiencing. Where is the person she lives with? If the autobiographical feeling of these works is not limited to an aspect of self-reference, but rather manages to produce universal images, where the feeling of loss is interpreted as an existential status, then this is due to the artist’s detached poetic sensitivity. Further more, the almost architecturally constructed places of memory invite viewers to participate. Thus, in the same way the artist’s favorite motive of closed doors – as in “Men and Women” (2005) – symbolizes hidden, perhaps repressed memory. Her photography works, as a kind of proscenium inviting and challenging the viewer’s indolent in what is going on, on the stage. It is precisely the lack of superficial sentimentalism and association with clichés and stereotypical interpretations- actually, it is the universality of references – that differentiates Dimitriadis´work from mono-semiotic pictorial analyses of established definitions of gendered subjectivity.
-
-Sotirios Bahtsetzis

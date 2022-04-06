@@ -1,11 +1,14 @@
 ---
-title: A Conversation Between Christina Dimitriadis and Kimberly Bradley
-subtitle: A Conversation Between Christina Dimitriadis and Kimberly Bradley
-author: Kimberly Bradley
+title: Island Hoping
+subtitle: City of Athens Arts Centre, Athens, 2018 (book)
+author: Kimberly Bradley - ChrisIna Dimitriadis
 layout: text
 tags: text
-order: 1
+order: 4800
 ---
+
+**A conversaIon between ChrisIna Dimitriadis and Kimberly Bradley**
+
 **Kimberly Bradley: When I first viewed Island Hoping as an exhibition in Athens, I could immediately see the multiple layers in this series of photographs. There are many approaches to and possible readings of the work. But how do you see these layers?**
 
 **Christina Dimitriadis:** A way to interpret the layers of my work is to picture what happens when you throw a pebble into a body of water. The surface of the water makes symmetrical concentric waves. My practice works the same way. A vibration of parallel cycles, starting with the individual and going to the personal, the social, the political, the historical. The photographs of the skerries and islets operate in the same way. They can be autobiographical; they can be political. They can also be seen as floating sculptures, carved by the sun, the sea, and the wind. While photographing them one by one, with a direct, straight-on gaze, they become portraits of small islets that are both places and non-places; they can even become portraits of abstracted mythical figures.
@@ -43,9 +46,6 @@ On the simplest level, I just played with the phrase “island hopping,” takin
 **In a way, then, in these photographs, you are plumbing humanity’s flaws but also its potentialities, its dramas but also its dreams, by looking outward and exposing what’s hidden in plain sight.**
 
 With the skerries, I wanted to turn my gaze to a landscape that mostly goes unnoticed and compose a different map of Greece—to remap it, so to speak. The moment we pay attention to the invisible, we think differently. Like the short story by the Brazilian writer Clarice Lispector, one of the most influential stories of my life, “The Smallest Woman in the World.” It’s about a French explorer and hunter in Equatorial Africa. He discovers a tiny, dark-skinned woman on the top of the tree. He is fascinated with her and photographs her, because she’s the smallest full-grown human he’s ever seen in his life. And this picture runs in all the Sunday newspapers. The reaction of the people opening the newspaper in the morning and seeing the supposedly smallest woman in the world are stunning; they’re explicitly racist. The comments about this woman are a human tragedy. There’s an intimate moment in which Lispector metaphorically cuts people open and ingeniously describes how they react, disparagingly or in surprise, to the smallest woman in the world as they read the paper and go about their days. Dostoevsky wrote long, epic books, but Lispector lays out humanity in eight pages. There’s no better story for me. Lispector taught me to look at the smallest things that we ignore. And these rocks? They’re invisible, but they become monumental.
-
-Kimberly Bradley
- 
 
 1 The Helgoland–Zanzibar Treaty is also known as the Anglo-German Agreement of 1890; in it, the United Kingdom and the German Empire traded control of each island, shifting geopolitical power in these regions.
 
