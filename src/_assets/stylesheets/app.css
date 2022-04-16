@@ -5,6 +5,10 @@
 body {
 	min-height: 101vh;
 }
+.body-home {
+	height: 100vh;
+	min-height: auto;
+}
 
 .generated p {
 	padding-bottom: 1rem;

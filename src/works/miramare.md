@@ -27,6 +27,6 @@ installations:
   - url: images/miramare-endand-koroneou-5736.jpg
     title: '"End And", Eleni Koroneou Gallery, 2012'
 ---
-'Biennále:3 “a Rock & a Hard Place” Main Programme, curated by Paolo Colombo, Mahita el Bacha Urieta, Marina Fokidis, Archelological Museum, Thessaloniki, 2011
+**Installation view:** 'Biennále:3 “a Rock & a Hard Place” Main Programme, curated by Paolo Colombo, Mahita el Bacha Urieta, Marina Fokidis, Archelological Museum, Thessaloniki, 2011
 
-*End And*, Eleni Koroneou Gallery, 2012
+**Installation view:** *End And*, Eleni Koroneou Gallery, 2012

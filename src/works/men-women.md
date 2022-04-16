@@ -2,7 +2,7 @@
 title: Men & Women
 place: Berlin
 year: '2005'
-medium: Color photograph
+medium: Color photograph, Inkjet print
 size: 180 x 180 cm
 layout: work
 tags: work
@@ -17,3 +17,6 @@ installations:
   - url: images/men-women-premiere-02.jpg
     title: "'La Premiere Image', curated by Denys Zacharopoulos, Centre Régional d'Art Contemporain Languedoc Roussilon, Sète, (C.R.A.C.)"
 ---
+**Installation view:** *La Premiere Image*, curated by Denys Zacharopoulos, Centre Régional d'Art Contemporain, Languedoc Roussilon, Sète, (C.R.A.C.), 2009.
+
+**Installation view:** *Symbioses*, Curators without Borders, Berlin, 2008

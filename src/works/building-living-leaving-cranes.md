@@ -21,4 +21,7 @@ gallery:
     title: ''
   - url: images/cranes-06.jpg
     title: ''
+  - url: images/living-together-installation.jpg
+    title: ''
 ---
+**Installation view:** 6th International Istanbul Biennial, "The Passion and The Wave ", curated by Paolo Colombo, Istanbul, 1999

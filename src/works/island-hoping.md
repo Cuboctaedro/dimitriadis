@@ -2,7 +2,7 @@
 title: Island Hoping
 place: Greece
 year: '2015 - 2018'
-medium: Inkjet Prints
+medium: Color Photographs, Inkjet prints
 size: 90 x 60 cm
 views: '"Island Hoping", Athens Municipality Arts Centre, Athens, 2018'
 layout: work
@@ -53,4 +53,4 @@ installations:
     title: '"Island Hoping", Athens Municipality Arts Centre, Athens, 2018'
 ---
 
-*Island Hoping*, Athens Municipality Arts Centre, Athens, 2018
+**Installation view:** *Island Hoping*, curated by Denys Zacharopoulos, Athens Municipality Arts Centre, Athens, 2018

@@ -21,4 +21,4 @@ installations:
   - title: '"Symbioses", Curators without Borders, Berlin, 2008'
     url: images/the-trap-gallery.jpg
 ---
-*Symbioses*, Curators without Borders, Berlin, 2008
+**Installation view:** *Symbioses*, Curators without Borders, Berlin, 2008

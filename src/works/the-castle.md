@@ -2,7 +2,7 @@
 title: The Castle
 place: Berlin
 year: '2002'
-medium: Lambda Prints
+medium: Color photographs, Inkjet prints
 size: 120 x 120 cm
 layout: work
 tags: work

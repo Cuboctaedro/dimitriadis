@@ -1,13 +1,13 @@
 ---
-title: Building Living Leaving (Living Together)
+title: Building Living Leaving (Living Together Part 1)
 place: Athens
 year: '1999-1996'
-medium: Lambda Prints
+medium: Color photographs, Inkjet prints
 size: 120 x 120 cm
 layout: work
 tags: work
 order: 155
-cover: images/living-together-08.jpg
+cover: images/living-together-05.jpg
 gallery:
   - url: images/living-together-01.jpg
     title: ''
@@ -22,11 +22,5 @@ gallery:
   - url: images/living-together-06.jpg
     title: ''
   - url: images/living-together-07.jpg
-    title: ''
-  - url: images/living-together-08.jpg
-    title: ''
-  - url: images/living-together-09.jpg
-    title: ''
-  - url: images/living-together-10.jpg
     title: ''
 ---

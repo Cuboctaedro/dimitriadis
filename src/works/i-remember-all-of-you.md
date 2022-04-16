@@ -12,7 +12,7 @@ gallery:
   - url: images/i-remember-all-of-you.jpg
     title:
 installations:
-  - url: images/i-remember-all-of-you-warsaw.jpg
+  - url: images/i-remember-all-of-you-installation.jpg
     title: '"Technologies of the Self", a retrospective of the artist’s most important photographic series from 1995–2015, curated by Barbara Piwowarska,  Galeria Studio, Warsaw, 2015'
 ---
-*Technologies of the Self*, a retrospective of the artist’s most important photographic series from 1995–2015, curated by Barbara Piwowarska,  Galeria Studio, Warsaw, 2015
+**Installation view:** *Symbioses*, Curators without Borders, Berlin, 2008

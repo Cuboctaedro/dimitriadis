@@ -2,8 +2,8 @@
 title: Private Spaces
 place: Berlin, Thessaloniki, Palio, Athens
 year: '1995'
-medium: Lambda Prints
-size: 150 x 150 cm
+medium: Color photographs, Inkjet - prints
+size: 150 x 150 cm & 100 x 100 cm
 layout: work
 tags: work
 order: 172
@@ -20,9 +20,9 @@ gallery:
   - url: images/private-spaces-05.jpg
     title:
 installations:
-  - url: images/private-spaces-ex-01.jpg
-    title: '"Technologies of the Self", a retrospective of the artist’s most important photographic series from 1995–2015, curated by Barbara Piwowarska, Galeria Studio, Warsaw, 2015'
   - url: images/private-spaces-ex-02.jpg
     title: '"Technologies of the Self", a retrospective of the artist’s most important photographic series from 1995–2015, curated by Barbara Piwowarska, Galeria Studio, Warsaw, 2015'
+  - url: images/private-spaces-ex-01.jpg
+    title: '"Technologies of the Self", a retrospective of the artist’s most important photographic series from 1995–2015, curated by Barbara Piwowarska, Galeria Studio, Warsaw, 2015'
 ---
-*Technologies of the Self*, a retrospective of the artist’s most important photographic series from 1995–2015, curated by Barbara Piwowarska, Galeria Studio, Warsaw, 2015
+**Installation view:**  *Technologies of the Self*, a retrospective of the artist’s most important photographic series from 1995–2015, curated by Barbara Piwowarska, Galeria Studio, Warsaw, 2015

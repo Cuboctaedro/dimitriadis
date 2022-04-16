@@ -2,7 +2,7 @@
 title: The Firewalls
 place: Berlin
 year: '2009'
-medium: Inkjet Prints
+medium: Color photographs, Inkjet prints
 size: 120 x 120 cm
 layout: work
 tags: work
@@ -31,4 +31,8 @@ gallery:
     title: 
   - url: images/firewalls-11.jpg
     title: 
+  - url: images/firewalls-exhibition-view.jpg
+    title: 
 ---
+**Installation view:** *The Firewalls*, Z2O Galleria I Sara Zanin, Rome, 2009
+

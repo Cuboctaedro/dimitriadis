@@ -1,5 +1,5 @@
 ---
 title: Home
 layout: home
-cover: images/homepage.png
+cover: images/cover-image.jpg
 ---
