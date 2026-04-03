@@ -1,6 +1,6 @@
 ---
 title: Technologies of the Self
-subtitle: Galeria Studio / Teatr Studio, Pl. Defilad 1, Warsaw
+subtitle: Galeria Studio / Teatr Studio, Pl. Defilad 1, Warsaw, 2015, Catalogue
 author: Barbara Piwowarska
 layout: text
 tags: text

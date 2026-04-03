@@ -3,20 +3,21 @@ title: Contact
 layout: contact
 ---
 **CHRISTINA DIMITRIADIS**  
-Email: christinadimitriadis@gmail.com  
+Email: christinadimitriadis@me.com  
 
 **ELENI KORONEOU GALLERY**  
-30, Dimofontos & Thorikion Str.  
-GR- 11851 Athens  
-Email:info@koroneougallery.com  
-Tel: +30 210.34.11.748  
-Fax: +30 210.92.44.271  
-Mobile:+30 69.32.600.376  
-www.koroneougallery.com  
+30 Dimofontos & Thorikion St.
+GR-118 51 Athens, Greece
+Email: info@koroneougallery.com
+Tel.: +30 210 341 1748
+Fax: +30 210 924 4271
+Mobile: +30 693 260 0376
+www.koroneougallery.com
 
 **© CHRISTINA DIMITRIADIS & VG BILD-KUNST**
 
-Under the protection of German copyright laws, all photographs on this site are international property of Christina Dimitriadis. Neither the photographs nor any other content of this site may be used, reproduced, duplicated, copied, sold, as a whole or in part, for any purpose without a written permission from Christina Dimitriadis.
+All photographs on this website are protected under German copyright law and remain the intellectual property of Christina Dimitriadis.
+No photographs or other content from this website may be used, reproduced, duplicated, copied, distributed, or stored, in whole or in part, without prior written permission from Christina Dimitriadis.
 
 **Website by**: www.cuboctaedro.eu
 

@@ -1,13 +1,13 @@
 ---
 title: Island Hoping
 subtitle: City of Athens Arts Centre, Athens, 2018 (book)
-author: Kimberly Bradley - ChrisIna Dimitriadis
+author: Kimberly Bradley - Christina Dimitriadis
 layout: text
 tags: text
 order: 4800
 ---
 
-**A conversaIon between ChrisIna Dimitriadis and Kimberly Bradley**
+**A conversation between Christina Dimitriadis and Kimberly Bradley**
 
 **Kimberly Bradley: When I first viewed Island Hoping as an exhibition in Athens, I could immediately see the multiple layers in this series of photographs. There are many approaches to and possible readings of the work. But how do you see these layers?**
 
